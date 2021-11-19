@@ -524,6 +524,10 @@ p{
  }
  .footer .b1{
      text-align: left;
+     color: white;
+     outline: none;
+     width: 280px;
+     height: 40px;
  }
 .post__img{
      height: 80px;
